@@ -1,0 +1,10 @@
+# 底本解析数据（《毛泽东诗词全编鉴赏》EPUB 提取内容，因版权不随仓库分发）
+tools/book_items.json
+
+# HTML 分享打包产物
+.trae-html-share-packages/
+
+# 系统文件
+Thumbs.db
+Desktop.ini
+.DS_Store
