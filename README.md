@@ -23,6 +23,10 @@
 
 ## 快速开始
 
+**在线使用**（无需下载）：<https://bzdoit.github.io/mao-poetry-speech/>
+
+**本地使用**：
+
 1. 双击打开 `毛主席诗词演讲稿生成器.html`
 2. 左侧勾选诗篇，或直接点预设
 3. 选时长、场合、是否带舞台提示
@@ -33,7 +37,9 @@
 ## 目录结构
 
 ```
+index.html                              # GitHub Pages 入口（跳转到主程序）
 毛主席诗词演讲稿生成器.html              # 主程序（自包含单文件，无外部依赖）
+.gitattributes                          # 统一换行符
 .trae/skills/mao-poetry-speech/         # TRAE Skill：可复用的生成规范
   SKILL.md
   references/
